@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
-    package="pooa20171.iff.br.webserviceappfipe">
+    package="POOAWS20172.iff.br.danilo">
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
@@ -10,7 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/MyMaterialTheme">
-        <activity android:name=".view.MainActivity">
+        <activity android:name="POOAWS20172.iff.br.danilo.view.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
